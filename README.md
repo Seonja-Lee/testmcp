@@ -1,0 +1,2 @@
+# testmcp
+mcp text
